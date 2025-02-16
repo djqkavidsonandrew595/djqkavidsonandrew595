@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm djqkavidsonandrew595
 
-<!--
-**djqkavidsonandrew595/djqkavidsonandrew595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛼 🏏 🎮 🎰 Ready to work on project management 🛼 🏏 🎮 🎰
 
-Here are some ideas to get you started:
+## About Me
+🎯 🎤 🏒 Improving my skills in frameworks 🎯 🎤 🏒
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+💡 🎤 🎳 A beginner in blockchain 💡 🎤 🎳
+
+### Fun Facts
+🏊 🏊 Looking to contribute to internet of things 🏊 🏊
+
+---
+🏄 🎱 🎮 🏸 ✨ Thanks for visiting my profile! 🎣 ✨ 🎽 🚵 🛶
